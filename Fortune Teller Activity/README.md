@@ -1,0 +1,1 @@
+made a program that predicted your fortune using a random number generator
