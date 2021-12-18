@@ -27,8 +27,8 @@ function makePac() {
   newimg.src = './images/PacMan1.png';
   newimg.width = 100;
   // TODO: set position here
-  newing.style.left = position.x;
-  newing.style.top = position.y;
+  newimg.style.left = position.x;
+  newimg.style.top = position.y;
   // TODO add new Child image to game
   game.appendChild(newing);
 
